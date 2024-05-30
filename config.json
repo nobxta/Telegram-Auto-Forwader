@@ -1,0 +1,7 @@
+{
+    "api_id": "your_api_id",
+    "name": "any_name",
+    "api_hash": "your_api_hash",
+    "messageToForward": "https://t.me/channel/postnumber",
+    "time": 3600
+}
